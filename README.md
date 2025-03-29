@@ -9,7 +9,7 @@
 
 > Just an average student.
 > 
-- 🔭 My website [[site]](xhimanshu.me)
+- 🔭 My website : https://xhimanshu.me/
 
 - 📫 How to reach me [Discord] **`_himanshu__`**
 
