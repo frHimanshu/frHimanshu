@@ -24,7 +24,6 @@
 <br>
 
 
-<h1> <align="center"> Github Stats </h1>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=frHimanshu&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
 </p>
