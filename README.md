@@ -6,8 +6,7 @@
   <img src="https://profile-counter.glitch.me/frHimanshu/count.svg" alt="Visitor's Count" />
 </div> <br>
 
-> Just an average student.
-> 
+
 - 🔭 My website : https://xhimanshu.me/
 
 - 📫 How to reach me [Discord] **`_himanshu__`**
@@ -16,10 +15,9 @@
 
 - ⚡ Fun fact **I think I'm not funny**
 
-<h4 align="left">Connect with me:</h4>
+<h4 align="left">More Socials:</h4>
 <p align="left">
 <a href="https://twitter.com/_himanxu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_himanxu" height="30" width="40" /></a>
-<a href="https://instagram.com/_himanshuxo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_himanshuxo" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/himanxu_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="himanxu_" height="30" width="40" /></a>
 </p>
 <br>
