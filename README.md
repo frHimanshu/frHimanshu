@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Himanshu</h1>
-<h2 align="center">Student from Thane, Mumbai, India.</h2>
 
 
 <h3 align="center"> Visitor Count</h3> 
@@ -12,6 +11,8 @@
 - 🔭 My website : https://xhimanshu.me/
 
 - 📫 How to reach me [Discord] **`_himanshu__`**
+
+- ⚡ Native : **Thane, India**
 
 - ⚡ Fun fact **I think I'm not funny**
 
