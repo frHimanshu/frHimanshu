@@ -14,15 +14,8 @@
 - ⚡ Native : **Thane, India**
 
 - ⚡ Fun fact **I think I'm not funny**
+</h3> <br>
 
-<h4 align="left">More Socials:</h4>
-<p align="left">
-<a href="https://twitter.com/_himanxu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_himanxu" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/himanxu_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="himanxu_" height="30" width="40" /></a>
-</p>
-<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frHimanshu&langs_count=15&layout=compact&hide_border=false&theme=dark&locale=en&title_color=ffffff&text_color=3bcf05&card_width=350&border_color=00000000&border_radius=10&line_height=30" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=frHimanshu&show_icons=true&theme=dark&bg-color=00000000&hide_border=false&title_color=ffffff&text_color=3bcf05&count_private=true&locale=en&rank_icon=percentile&border_color=00000000&border_radius=10&line_height=25&&show=reviews,discussions_started,discussions_answered&include_all_commits=true&text_bold=true" />
 
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=frHimanshu&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Himanshu's Github Stats">
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
