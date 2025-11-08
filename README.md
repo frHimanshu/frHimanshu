@@ -7,9 +7,6 @@
 - ⚡ **Finding the in-between**
   
 - 📫 Discord : **`_himanshu__`**
-
-- ⚡ Native : **Thane, India**
-
 </h5> <br>
 
 ![](https://komarev.com/ghpvc/?username=frhimanshu)
